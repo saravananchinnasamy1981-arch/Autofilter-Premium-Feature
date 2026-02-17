@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 YATHUM URRE YAVARUM KELLIR 🚩</u></b>
+    START_TXT = """<b><u>G KANNADA SERIAL</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
